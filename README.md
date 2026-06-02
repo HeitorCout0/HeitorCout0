@@ -1,10 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:0051ff&height=200&section=header&text=Heitor%20Couto&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Estudante%20de%20Engenharia%20de%20Software&descAlignY=55&descAlign=50"/>
 
+
+
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Estudante+de+Engenharia+de+Software;Fall+in+love+in+the+new+Features+%F0%9F%9A%80;Open+Source+Contributor;Turning+ideas+into+code+%F0%9F%92%BB" alt="Typing SVG"/>
 <br/>
 <img src="https://komarev.com/ghpvc/?username=HeitorCout0&color=00d4ff&style=flat-square&label=PROFILE+VIEWS"/>
 </div>
+
+
 
 
 - 🎓 Cursando **Engenharia de Software**, apaixonado por tecnologia e inovação
