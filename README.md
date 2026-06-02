@@ -6,15 +6,13 @@
 <img src="https://komarev.com/ghpvc/?username=HeitorCout0&color=00d4ff&style=flat-square&label=PROFILE+VIEWS"/>
 </div>
 
-## 👨‍💻 About Me
-
+<div align="center">
 - 🎓 Cursando **Engenharia de Software**, apaixonado por tecnologia e inovação
 - 💡 Sempre explorando as **novas features** do mundo da tecnologia
 - ⚡ Desenvolvendo soluções com **automação**, **cloud** e **low-code**
 - 🌱 Em constante aprendizado — hoje em Python, amanhã no futuro
 - 📬 Aberto a colaborações e novos projetos!
-
-## 🛠️ Tech Stack
+</div>
 
 <div align="center">
 
@@ -29,8 +27,6 @@
 
 </div>
 
-## 📊 GitHub Stats
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HeitorCout0&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HeitorCout0&theme=tokyonight&hide_border=true"/>
@@ -43,8 +39,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HeitorCout0&theme=tokyonight"/>
 </div>
 
-## 🐍 Contribution Graph
-
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HeitorCout0/HeitorCout0/output/github-contribution-grid-snake-dark.svg">
@@ -53,7 +47,6 @@
 </picture>
 </div>
 
-## 📫 Contact
 
 <div align="center">
 
