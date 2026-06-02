@@ -6,13 +6,13 @@
 <img src="https://komarev.com/ghpvc/?username=HeitorCout0&color=00d4ff&style=flat-square&label=PROFILE+VIEWS"/>
 </div>
 
-<div align="center">
+
 - 🎓 Cursando **Engenharia de Software**, apaixonado por tecnologia e inovação
 - 💡 Sempre explorando as **novas features** do mundo da tecnologia
 - ⚡ Desenvolvendo soluções com **automação**, **cloud** e **low-code**
 - 🌱 Em constante aprendizado — hoje em Python, amanhã no futuro
 - 📬 Aberto a colaborações e novos projetos!
-</div>
+
 
 <div align="center">
 
