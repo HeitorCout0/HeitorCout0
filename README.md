@@ -32,11 +32,15 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HeitorCout0&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HeitorCout0&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HeitorCout0&theme=tokyonight&hide_border=true"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorCout0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HeitorCout0&theme=tokyonight"/>
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HeitorCout0&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HeitorCout0&theme=tokyonight"/>
 </div>
 
 ## 🐍 Contribution Graph
